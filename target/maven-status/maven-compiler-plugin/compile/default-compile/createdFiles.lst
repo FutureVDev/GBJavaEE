@@ -5,3 +5,4 @@ enterprise\filter\UTF8Filter.class
 enterprise\servlet\CartServlet.class
 enterprise\servlet\MainServlet.class
 enterprise\servlet\ProductServlet.class
+enterprise\servlet\TestServlet.class
